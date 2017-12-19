@@ -1,0 +1,12 @@
+
+------- This is the content for the main page of my website. -------- 
+
+--- KINECT COACH --- 
+
+1st Place Winner of Athlete Experience Category at UCLA's hackathon, LA Hacks, in April of 2017. It uses the Kinect interface and feeds the data through our machine learning server in order to correct errors due to form in athletic sports. We could detect form irregularities in isometric positions such as posture, as well as in exercises such as hitting a tennis ball, and doing pushups. We leveraged classical machine learning using linear regression in order using features such as height, orientation, in order to determine a good form for any given sub-activity for a sport or isometric positions. 
+
+I came across the idea of this app after getting plantar fasciitis from endurance running. I found out (after my severe injury) that my right foot had been hitting the ground at an irregular angle, causing stress fractures in the outer bones of my foot. This was due to a bad running posture. I wouldn't have been able to afford a personal trainer to teach me, so I looked for a possible, more accessive alternative for people who already own the Microsoft Kinect.
+
+--- ORGANIZE ME ---
+
+Grand Prize and 1st Place Winner of OC Hacks 2015, a high-school hackathon. This was a productivity webapp that leveraged encryption and user logins in order to provide personalized planning. It had to-do lists as well as calculators to predict completion of homework so that high school students would be able to partition their time more efficiently. 
