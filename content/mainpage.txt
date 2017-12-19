@@ -1,7 +1,7 @@
 
 ------- This is the content for the main page of my website. -------- 
 
---- KINECT COACH --- 
+--- KINETIC COACH --- 
 
 1st Place Winner of Athlete Experience Category at UCLA's hackathon, LA Hacks, in April of 2017. It uses the Kinect interface and feeds the data through our machine learning server in order to correct errors due to form in athletic sports. We could detect form irregularities in isometric positions such as posture, as well as in exercises such as hitting a tennis ball, and doing pushups. We leveraged classical machine learning using linear regression in order using features such as height, orientation, in order to determine a good form for any given sub-activity for a sport or isometric positions. 
 
