@@ -1,0 +1,185 @@
+ h2 {
+   	font-family: Oswald;
+   	text-transform: uppercase;
+   	color: #000;
+   }
+   p {
+   	color: #444;
+   	font-family: Roboto;
+   	font-size: 18px;
+   	font-weight: 300;
+   	margin: default;
+   }
+   body {
+   	padding: 0;
+   	margin: 0;
+   }
+   .title-center {
+   	opacity: 0;
+   	margin-left: -150px;
+   	text-align: center;
+   	font-family: Montserrat;
+   	font-weight: 500;
+   	font-size: 80px;
+   	color: #FFF;
+   	text-shadow: 2px 2px 8px rgba(0,0,0,.3);
+   }
+   .center-text {
+      text-align: center;
+   }
+   .title-container {
+   	background: #396bff;
+   	overflow: hidden;
+   	padding: 15px;
+   	-webkit-box-shadow: inset 0px -5px 72px -14px rgba(0, 0, 0, 0.75);
+   	-moz-box-shadow: inset 0px -5px 72px -14px rgba(0, 0, 0, 0.75);
+   	box-shadow: inset 0px -5px 72px -14px rgba(0, 0, 0, 0.75);
+   	padding-bottom: 275px;
+   	background-image: url("../banner new.jpg") ;
+      background-size: 100%;
+   }
+   .title-wrapper {}
+   .button {
+   	font-size: 14px;
+   	background: none;
+   	padding: 5px;
+   	border: 1px solid #4257ff;
+   	padding-left: 25px;
+   	padding-right: 25px;
+   	text-decoration: none;
+   	font-family: Oswald;
+   	text-transform: uppercase;
+   	color: #4257ff;
+   	border-radius: 2px;
+   	transition: all .2s ease;
+   }
+   .button:hover {
+   	background: #396bff;
+   	text-decoration: none;
+   	color: #FFF;
+   }
+   .button:active {
+   	background: #2F3652;
+   }
+   .header {
+   	background: #222;
+   	border-bottom: 1px solid #444;
+   	text-align: center;
+   	font-family: Raleway;
+   	font-weight: 300;
+   	color: #FFF;
+   	font-size: 18pt;
+   	padding: 15px;
+   	padding-bottom: 5px;
+   }
+   .header hr {
+   	margin-bottom: 10px;
+   	margin-top: 10px;
+   }
+   #iphone {
+   	opacity: 0;
+   }
+   .nav {
+   	height: 75px;
+   	background: #222;
+   	border-top: 1px solid #444;
+   }
+   .upperfooter { 
+   	padding: 25px;
+   	
+   	background: #333;
+   	color: #888;
+   	font-family: Roboto;
+   	font-size: 14px;
+   }
+   .lowerfooter {
+   	background: #222;
+   	font-family: Roboto;
+   	font-size: 14px;
+   	color: #AAA;
+   	padding: 25px;
+   }
+   #me {
+   	margin-top: 30px;
+   	width: 100px;
+   	border-radius: 50px;
+   }
+    ::selection {
+   	background: #396bff;
+   	/* WebKit/Blink Browsers */
+   	color: #FFF;
+   }
+   ::-moz-selection {
+   	background: #396bff;
+   	/* Gecko Browsers */
+   	color: #FFF;
+   }
+   @media(max-width:62em) {
+   	p {
+   		font-size: 30pt;
+   	}
+   	h2 {
+   		font-size: 50pt;
+   	}
+   	.header {
+   		font-size: 40pt;
+   		padding: 40px
+   	}
+   	.button {
+   		font-size: 30pt;
+   		padding: 15px;
+   		padding-left: 75px;
+   		padding-right: 75px;
+   	}
+   	.desc {
+   		margin-top: 75px;
+   	}
+   	#me { 
+   		width: 200px;
+   		border-radius: 100px;
+   		margin-top: 50px;
+   		display: block;
+   	}
+   }
+   /**********************/
+
+   .small-hr {
+      background: #e0ecff;
+      border: 1px solid #e0ecff;
+      margin-bottom: 30px;
+      margin-top: 10px;
+      width: 50%;
+   }
+   .logos {
+      width: 75px;
+      margin: 0 auto;
+      display: block;
+   }
+   
+    .logo-bottom {
+      text-align: center;
+      font-family: Montserrat;
+   }
+
+.logo {
+   opacity: .3;
+   cursor: pointer;
+   display: block;
+   text-decoration: none;
+   color: #FFF;
+}
+    .logo:hover {
+       opacity: 1;
+      text-decoration: none;
+      color: #FFF;
+    }
+    .logo:active {
+       opacity: 1;
+      text-decoration: none;
+      color: #FFF;
+    }
+    .logo:visited {
+       opacity: 1;
+      text-decoration: none;
+      color: #FFF;
+    }
